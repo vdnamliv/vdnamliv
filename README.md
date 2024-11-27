@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vdnamliv</h1>
 <h3 align="center">A passionate red teaming security from Vietnam</h3>
 
-- 🌱 I’m currently learning **Python and Pentesting**
+- 🌱 I’m currently learning **Python and Ethical Hacking**
 
 - 📫 How to reach me **dinhnamhn2003@gmail.com**
 
