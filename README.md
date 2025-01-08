@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm vdnamliv</h1>
+<h1 align="center">Hi 👋, I'm vdnamliv or 0xE1D</h1>
 <h3 align="center">A passionate red teaming security from Vietnam</h3>
 
-- 🌱 I’m currently learning **Python, Ethical Hacking and Threat Intelligence**
+- 🌱 I’m currently learning **Python and Ethical Hacking**
 
 - 📫 How to reach me **dinhnamhn2003@gmail.com**
 
