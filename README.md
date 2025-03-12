@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 - 📝 I'm 4th Year Student in University of Engineering and Technology - VNU (Vietnam)
-- 🌱 I’m currently learning **Ethical Hacking and Python Development**
+- 🌱 I’m currently learning **Web Penetration Testing, Cryptography and Python Development**
 - 📫 How to reach me **dinhnamhn2003@gmail.com**
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,js,php,laravel,docker,&theme=dark)](https://skillicons.dev)
 
-## Langguage
+## Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdnamliv&langs_count=8)
 
 <picture>
