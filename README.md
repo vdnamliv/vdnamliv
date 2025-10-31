@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm vdnamliv or 0xV_D1n</h1>
 
 ## 🚀 About Me
-- 📝 I'm 4th Year Student in University of Engineering and Technology - VNU (Vietnam)
-- 🌱 I’m currently learning **Web Penetration Testing, Cryptography and Python Development**
+- 🌱 I’m currently a **Security Engineer, Cryptography Learner** and a **System Developer** (🇻🇳)
 - 📫 How to reach me **dinhnamhn2003@gmail.com**
 
 ## Tech Stack
