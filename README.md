@@ -5,7 +5,7 @@
 - 📫 How to reach me **dinhnamhn2003@gmail.com**
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,js,php,laravel,docker,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,windows,go,py,c,cpp,bash,postgres,docker,&theme=dark)](https://skillicons.dev)
 
 ## Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdnamliv&langs_count=8)
