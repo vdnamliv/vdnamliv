@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vdnamliv or 0xV_D1n</h1>
 
 ## 🚀 About Me
-- 🌱 I’m currently a **Security Engineer, Cryptography Learner** and a **System Developer** (🇻🇳)
+- 🌱 I’m currently a **Noob** Security Engineer (🇻🇳)
 - 📫 How to reach me **dinhnamhn2003@gmail.com**
 
 ## Tech Stack
